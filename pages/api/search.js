@@ -15,7 +15,7 @@ export default async function handler(req, res) {
       token: process.env.LEAKOSINT_API_TOKEN,
       request: query,
       limit: 300,
-      lang: "ru",
+      lang: "en",
     });
     res.status(200).json(data);
   } catch (err) {
