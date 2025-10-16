@@ -1,0 +1,21 @@
+{
+  "name": "kali-leakosint-webapp",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "axios": "1.6.8"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.4",
+    "autoprefixer": "10.4.18",
+    "postcss": "8.4.35"
+  }
+}
