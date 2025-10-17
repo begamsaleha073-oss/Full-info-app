@@ -37,7 +37,7 @@ export default function Home() {
       <div className="w-full max-w-md flex flex-col items-center">
         <input
           type="tel"
-          placeholder="Enter number e.g. 917482828117"
+          placeholder="Type number e.g.917482828117"
           value={number}
           onChange={(e) => setNumber(e.target.value)}
           className="bg-gray-900 text-green-400 border border-green-500 p-3 w-full rounded mb-3 text-center outline-none"
