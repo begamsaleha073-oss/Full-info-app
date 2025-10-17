@@ -32,7 +32,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-black text-green-400 flex flex-col items-center p-6 font-mono">
-      <h1 className="text-3xl font-bold mb-6 text-green-500">🐉 Happy OSINT 🪪 Investigation🔍 app 🥰👍❤️🤗</h1>
+      <h1 className="text-3xl font-bold mb-6 text-green-500">🐉 Happy🎭OSINT 🪪 Investigation 🔍 app 🥰👍❤️🤗</h1>
 
       <div className="w-full max-w-md flex flex-col items-center">
         <input
@@ -59,7 +59,7 @@ export default function Home() {
 
       <div className="mt-10 text-center max-w-2xl">
         <p className="text-red-500 text-sm border-t border-gray-700 pt-4">
-          ⚠️ This tool was created by <span className="font-bold">Happy</span>.  
+          ⚠️ This tool was created by <span className="font-bold">HAPPY</span>.  
           It is for investigation and educational purposes only.  
           Misuse of this tool is strictly prohibited.  
           You will be responsible for any illegal use.
