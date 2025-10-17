@@ -32,7 +32,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-black text-green-400 flex flex-col items-center p-6 font-mono">
-      <h1 className="text-3xl font-bold mb-6 text-green-500">🐉 Happy OSINT Investigation app</h1>
+      <h1 className="text-3xl font-bold mb-6 text-green-500">🐉 Happy OSINT 🪪 Investigation🔍 app 🥰 👍❤️</h1>
 
       <div className="w-full max-w-md flex flex-col items-center">
         <input
